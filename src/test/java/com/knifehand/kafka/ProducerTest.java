@@ -8,6 +8,6 @@ import java.util.concurrent.ExecutionException;
 class ProducerTest {
     @Test
     void producerTest() throws ExecutionException, InterruptedException {
-        org.acme.Producer.setProducerProperties();
+        Producer.setProducerProperties();
     }
 }

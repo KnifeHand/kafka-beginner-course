@@ -2,7 +2,7 @@ package com.knifehand.kafka;
 
 import org.junit.jupiter.api.Test;
 
-import static org.acme.Consumer.consumer;
+import static com.knifehand.kafka.Consumer.consumer;
 
 public class ConsumerTest {
 
