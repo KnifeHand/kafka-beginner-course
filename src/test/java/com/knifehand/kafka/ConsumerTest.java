@@ -1,8 +1,8 @@
-package org.acme;
+package com.knifehand.kafka;
 
 import org.junit.jupiter.api.Test;
 
-import static com.boeing.bds.ptes.mms.event.classified.svc.consumer.Consumer.consumer;
+import static org.acme.Consumer.consumer;
 
 public class ConsumerTest {
 
